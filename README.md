@@ -1,30 +1,30 @@
 
-![Hello Myself,Subhranshu](https://github.com/CantBeSubh/CantBeSubh/assets/83113185/cadf7712-af12-4f6d-a1a1-8993700cb002)
+![Hello Myself,Deepak](https://github.com/CantBeSubh/CantBeSubh/assets/83113185/cadf7712-af12-4f6d-a1a1-8993700cb002)
 
 <p align='center'>
 	🌐 Portfolio
 	<br/>
-	https://subhranshu.com
+	https://deepak8321.com
 	<br/><br/>
 	🤝 Hire me
 	<br/>
-	<a href="mailto:socials.subhranshu@gmail.com">socials.subhranshu@gmail.com</a>
+	<a href="mailto:deepakcsit0101.com">depakcsit0101@gmail.com</a>
 </p>
 
-<h1 align='center'>✨whoami</h1> 
+<h1 align='center'>✨About me</h1> 
 
 <p>
-<a  href="#">
+<!-- <a  href="#">
 	<img width="50%" align="right" alt="Github Image" src="https://github.com/h0lycow/h0lycow/blob/main/assets/undraw_code_thinking_re_gka2.svg" '/>
-</a>
+</a> -->
 	
-⭐Hello! Myself Subhranshu.Final year student at VIT, Chennai
+⭐Hello! Myself Deepak Kumar Paswan. Final year student at AITR, Indore
 
 ⭐Software Engineering enthusiast looking for part-time/full-time opportunities.
 
 ⭐Passionate about Frontend, Backend, Fullstack, Cloud and DevSecOps.
 
-⭐React, Vue, NextJS, NuxtJS, Tailwind
+⭐React, NextJS, Tailwind, C++, JavaScript, Node.js, Database Technologies (MySQL, PostgreSQL, MongoDB).
 
 ⭐Graduation Year: April 2024
 </p>
@@ -33,6 +33,13 @@
 
 <p align='center'>
 	<img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
+<br>
+	<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+	<img src='https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
+	<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
+<br>
+	<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
+	<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
 <br>
 	<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
 	<img src='https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white'/>
@@ -46,16 +53,9 @@
 	<img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white'/>
 	<img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/>
 <br>
-	<img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-	<img src='https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white'/>
-	<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-<br>
 	<img src='https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D'/>
 	<img src='https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82'/>
 	<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
-<br>
-	<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
-	<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
 <br>
 	<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
 	<img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
@@ -70,17 +70,17 @@
 
 <h1 align='center'>📊Github Stats</h1> 
 
-<img src='https://github.com/CantBeSubh/CantBeSubh/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/>
+<!-- <img src='https://github.com/CantBeSubh/CantBeSubh/blob/main/assets/undraw_version_control_re_mg66.svg' align='right' width='40%'/> -->
 
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly,Jupyter+Notebook' align='center'/></p>
-
-<br>
-
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=CantBeSubh&theme=dracula&show_icons=true' align='center'/></p>
+<!-- <p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CantBeSubh&&theme=dracula&hide=lua,assembly,Jupyter+Notebook' align='center'/></p> -->
 
 <br>
 
-<p align='center'><img src='https://github-profile-trophy.vercel.app/?username=CantBeSubh&theme=dracula&row=1&column=6' align='center'/></p>
+<!-- <p align='center'><img src='https://github-readme-stats.vercel.app/api/?username=CantBeSubh&theme=dracula&show_icons=true' align='center'/></p> -->
+
+<br>
+
+<!-- <p align='center'><img src='https://github-profile-trophy.vercel.app/?username=CantBeSubh&theme=dracula&row=1&column=6' align='center'/></p> -->
 
 <br>
 
@@ -94,11 +94,9 @@
 																       
 <h1 align='center'>🎮Hobbies</h1>
 
-- Video Games(Multiplayer FPS, RPG, 3D/2D Platform)
-
 - Music(Old School Hip-hop, Dubstep, City Pop, Jazz, Future Bass)
 
-- Video Editing and 3D Modelling(Blender,Davichi Resolve)
+- photo Editing and 3D Modelling(Blender,Davichi Resolve)
 
 - Reading(Sci-Fi, Autobiography)
 
@@ -109,4 +107,4 @@
 
 <h1 align='center'>🌐Socials </h1>
 
-<p align='center'><a href='https://linktr.ee/CantBeSubh'>LinkTree</a><br> <a href='https://subhranshu.com/'>Portfolio</a></p>
+<p align='center'><a href='https://www.linkedin.com/in/deepak8321/'>LinkTree</a><br> <a href='https://www.deepak8321.com/Home/'>Portfolio</a></p>
