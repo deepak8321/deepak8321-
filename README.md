@@ -1,5 +1,5 @@
 
-![Hello Myself,Deepak](https://www.canva.com/design/DAF7xliew3I/watch)
+![Hello Myself,Deepak](https://github.com/deepak8321/deeepak8321-/blob/main/deepak8321.gif)
 
 <p align='center'>
 	🌐 Portfolio
