@@ -1,6 +1,16 @@
 
 ![Hello Myself,Deepak](https://github.com/deepak8321/deeepak8321-/blob/main/deepak8321.gif)
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Deepak" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=Open+for+Hire+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+
 <p align='center'>
 	🌐 Portfolio
 	<br/>
